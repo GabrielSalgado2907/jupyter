@@ -1,4 +1,4 @@
-![](https://images.cooltext.com/5137353.gif)
+![]()
 
 ![](https://images.cooltext.com/5137343.gif)
 
