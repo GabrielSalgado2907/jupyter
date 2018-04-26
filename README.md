@@ -4,7 +4,7 @@
 
 Jupyter Notebook es una aplicación web que permite crear y compartir documentos que contienen código fuente, ecuaciones, visualizaciones y texto explicativo. Entre sus usos está la limpieza y transformación de datos, la simulación numérica, el modelado estadístico, el aprendizaje automático y mucho más.
 
-![](https://images.cooltext.com/5137346.gif)
+![](https://images.cooltext.com/5137368.png)
 
 Gracias al Big Data las empresas pueden almacenar, procesar e interpretar grandes volúmenes de datos a gran velocidad. Aunque aún la mayoría de las empresas no trabajan con este tipo de tecnologías y sólo son un puñado de ellas las que se benefician de las ventajas que supone trabajar con Big Data.
 
