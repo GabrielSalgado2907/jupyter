@@ -13,4 +13,6 @@ Gracias al Big Data las empresas pueden almacenar, procesar e interpretar grande
 ![](https://images.cooltext.com/5137347.gif)
 
 Jupyter nos ofrece una shell interactiva vía web, a la que podemos acceder desde un navegador. La shell está organizada en pequeños bloques, cada bloque puede contener texto arbitrario formateado en Markdown, fórmulas matemáticas en LaTeX, código en multitud de lenguajes, resultados, gráficos, vídeos, widgets o cualquier elemento multimedia.
+Con esta disciplina nace un nuevo perfil: el científico de datos, que debe tener conocimientos de negocio, ingeniería de datos, machine learning, matemáticas, estadística, computación distribuida y visualización,
+pueden almacenar, procesar e interpretar grandes volúmenes de datos a gran velocidad.
 
